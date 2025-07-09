@@ -1,0 +1,5 @@
+![gambar](./p2.jpg)
+![gambar](./p21.jpg)
+![gambar](./p22.jpg)
+![gambar](./p23.jpg)
+![gambar](./p24.jpg)
